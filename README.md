@@ -1,3 +1,1 @@
-# NameSurname-Week1-Homework
-Projelerinizi İsimSoyisim-HaftaveHaftaNumarası-Ödev şeklinde yüklemeniz gerekmektedir.
-- Örneğin: NurayKilic-Week3-Homework3
+Papara .Net Core Bootcamp project that I created including CRUD methods (Get, post, put, delete).
