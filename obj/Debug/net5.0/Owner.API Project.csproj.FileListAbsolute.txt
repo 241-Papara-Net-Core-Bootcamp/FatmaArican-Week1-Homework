@@ -1,0 +1,28 @@
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\bin\Debug\net5.0\appsettings.json
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\bin\Debug\net5.0\Owner.API Project.exe
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\bin\Debug\net5.0\Owner.API Project.deps.json
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\bin\Debug\net5.0\Owner.API Project.runtimeconfig.json
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\bin\Debug\net5.0\Owner.API Project.runtimeconfig.dev.json
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\bin\Debug\net5.0\Owner.API Project.dll
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\bin\Debug\net5.0\Owner.API Project.pdb
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\Owner.API Project.csproj.AssemblyReference.cache
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\Owner.API Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\Owner.API Project.AssemblyInfoInputs.cache
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\Owner.API Project.AssemblyInfo.cs
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\Owner.API Project.csproj.CoreCompileInputs.cache
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\Owner.API Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\Owner.API Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\scopedcss\bundle\Owner.API Project.styles.css
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\staticwebassets\Owner.API Project.StaticWebAssets.Manifest.cache
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\Owner.API Project.RazorTargetAssemblyInfo.cache
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\Owner.API Project.csproj.CopyComplete
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\Owner.API Project.dll
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\refint\Owner.API Project.dll
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\Owner.API Project.pdb
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\Owner.API Project.genruntimeconfig.cache
+C:\Users\Fatma Arıcan\Desktop\Owner.API Project\obj\Debug\net5.0\ref\Owner.API Project.dll
